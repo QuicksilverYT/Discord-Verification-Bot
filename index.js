@@ -11,7 +11,7 @@ const client = new Discord.Client({
 let cooldown = new Set();
 let cdseconds = 1; // cooldown time
 
-// This code is made by Supreme#2401
+// This code is made by itzQuicksilver
 
 
 client.commands = new Discord.Collection();
